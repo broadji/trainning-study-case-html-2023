@@ -1,4 +1,3 @@
-<img width="1680" alt="Screenshot 2023-10-27 at 02 23 16" src="https://github.com/broadji/trainning-study-case-html-2023/assets/75732156/1b9681bb-8cd8-449f-9871-f36a09552f00"># trainning-study-case-html-2023
 Trainning Programmer 2023
 
 ## Screenshot
