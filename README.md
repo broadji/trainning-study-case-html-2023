@@ -1,4 +1,4 @@
-Trainning Programmer 2023
+<img width="1680" alt="Screenshot 2023-10-27 at 03 27 26" src="https://github.com/broadji/trainning-study-case-html-2023/assets/75732156/9580933a-ec5a-4dc3-964f-40557bf18116">Trainning Programmer 2023
 
 ## Screenshot
 
@@ -8,8 +8,8 @@ Trainning Programmer 2023
 - Booking (CSS Native)
 - Detail Movie List (CSS Native)
 
-<img width="1680" alt="Screenshot 2023-10-27 at 02 23 16" src="https://github.com/broadji/trainning-study-case-html-2023/assets/75732156/0bcecd27-4208-4ad0-93d2-e35973ffd928">
-<img width="1680" alt="Screenshot 2023-10-27 at 02 23 24" src="https://github.com/broadji/trainning-study-case-html-2023/assets/75732156/b888de43-ffd7-48a4-abb7-1b593ab8674b">
-<img width="1680" alt="Screenshot 2023-10-27 at 02 23 31" src="https://github.com/broadji/trainning-study-case-html-2023/assets/75732156/e7be39f6-f682-46f1-a020-01e3e7d908c7">
-<img width="1680" alt="Screenshot 2023-10-27 at 02 23 36" src="https://github.com/broadji/trainning-study-case-html-2023/assets/75732156/19f6336a-16a4-43db-bda8-6ae47406c147">
-<img width="1680" alt="Screenshot 2023-10-27 at 02 23 38" src="https://github.com/broadji/trainning-study-case-html-2023/assets/75732156/9a25c976-123d-45d0-9956-2326675ec01e">
+<img width="1680" alt="Screenshot 2023-10-27 at 03 27 26" src="https://github.com/broadji/trainning-study-case-html-2023/assets/75732156/048a2c1f-adbf-400a-9208-765b6a8b170c">
+<img width="1680" alt="Screenshot 2023-10-27 at 03 27 28" src="https://github.com/broadji/trainning-study-case-html-2023/assets/75732156/957264aa-884a-4fcf-bffe-69eac4ab4753">
+<img width="1680" alt="Screenshot 2023-10-27 at 03 27 32" src="https://github.com/broadji/trainning-study-case-html-2023/assets/75732156/a325dca8-55bb-44c2-a21d-45a0d035e958">
+<img width="1680" alt="Screenshot 2023-10-27 at 03 27 39" src="https://github.com/broadji/trainning-study-case-html-2023/assets/75732156/a197a05d-f6a3-49cf-bc67-d4044de9bb46">
+<img width="1680" alt="Screenshot 2023-10-27 at 03 27 41" src="https://github.com/broadji/trainning-study-case-html-2023/assets/75732156/bfd7fc77-365b-4365-91ed-45587292c873">
